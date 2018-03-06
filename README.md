@@ -1,6 +1,6 @@
-# Sesume
+# Resume
 
-[简历](https://yaob421123.github.io/resume/)
+* [简历](https://yaob421123.github.io/resume/)
 
 ### 求职范围
 
